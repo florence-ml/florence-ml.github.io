@@ -1,5 +1,5 @@
 header:
-    title: I can make changes!
+    title: Chanson traditionnelle
     text: Germaine
     button: Spectacles
     buttonlink: "#services" # "#{section}" or "URL/page link"
